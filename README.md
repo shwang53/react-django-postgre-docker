@@ -11,7 +11,7 @@ Production build of our application – Docker
 ### Install & Run
 
 ```
-docker-compose-up
+docker-compose up
 ```
 
 And see
